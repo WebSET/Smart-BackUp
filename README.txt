@@ -20,6 +20,9 @@ After you upload all the files and set the permissions we can setup WSBackup.
 Please delete the install folder after the setup for safety reasons
 You are done!
 
+
+If you would like to work on this or find any bugs , help with fixes , contact me on office@webset.ro
+
 Support:
 If you have any question please leave a comment from the place you buy the script or email me on office@webset.ro
 
